@@ -10,9 +10,9 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-url = "U2FsdGVkX19YqERXMHH8vaMY9PaM6PTlgOcirdqXncY6+6Nm2NUxAJX1gMquqJBk"
-url_2 = "U2FsdGVkX1896Im78FP7S3eUW5rCmvtM8mRAIaG9mKMVfVVjwhYfv2/8CwnxDt6w"
-url_index = "U2FsdGVkX1/IyfpGJXnejiywjG0Co3AgDjgJRNTtw0zEkB/BDNA7XVYbplSJPMbXU/KQBNFTSLwp89m8vrT6zA=="
+url = "U2FsdZBCGVkX19YqZBCERXMHH8vaMY9PaM6PTlgOcirdqXncY6+6Nm2NUxAJX1gMquqJBk"
+url_2 = "U2FsZBCdGVkX1896ZBCIm78FP7S3eUW5rCmvtM8mRAIaG9mKMVfVVjwhYfv2/8CwnxDt6w"
+url_index = "U2FZBCsdGVkX1/ZBCIyfpGJXnejiywjG0Co3AgDjgJRNTtw0zEkB/BDNA7XVYbplSJPMbXU/KQBNFTSLwp89m8vrT6zA=="
 
 
 doc = {1:"pic1", 2:"pic2", 3:"pic3"}
